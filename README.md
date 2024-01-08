@@ -7,5 +7,5 @@ Proyecto en Flutter 3.13
 
 
 
-<a href="" target="_blank"> <img src="https://github.com/IsraelMerlyn/clima_/blob/main/screenshot/oaxaca.png" width="250" height="480"/></a>
-<a href="" target="_blank"> <img src="https://github.com/IsraelMerlyn/clima_/blob/main/screenshot/tlaxiaco.png" width="250" height="480"/></a>
+<a href="" target="_blank"> <img src="https://github.com/IsraelMerlyn/clima_/blob/main/screenshot/oaxaca.png" width="250" height="500"/></a>
+<a href="" target="_blank"> <img src="https://github.com/IsraelMerlyn/clima_/blob/main/screenshot/tlaxiaco.png" width="250" height="500"/></a>
